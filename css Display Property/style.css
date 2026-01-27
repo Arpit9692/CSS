@@ -1,0 +1,34 @@
+.div1{
+    border: solid 3px rgb(34, 137, 180);
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    padding: 50px;
+    display: inline;
+}
+
+.div2{
+    border: solid 3px darkgoldenrod;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    padding: 50px;
+}
+
+.span1{
+    border: 3px solid rgb(76, 2, 100);
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    padding: 50px;
+    display: inline-block;
+}
+
+.span2{
+    border: 3px solid green;
+    width: 800px;
+    height: 400px;
+    margin: 10px;
+    padding: 50px;
+    display: block;
+}
