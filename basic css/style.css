@@ -1,0 +1,24 @@
+h1{
+    background-color: bisque;
+    color: blue;
+    text-align: center;
+}
+p{
+    background-color: aquamarine;
+}
+#abc{
+    color: red;
+}
+.cls{
+    text-align: center;
+}
+
+p,footer{
+    width: 500px;
+}
+footer.cls{
+    background-color: lightpink;
+}
+article{
+    background-color: lime;
+}
