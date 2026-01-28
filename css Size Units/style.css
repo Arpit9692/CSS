@@ -1,0 +1,53 @@
+.box{
+    border: 10px double rgb(72, 67, 6);
+    width: 25%;
+}
+.parent{
+    border: 5px dashed bisque;
+    background-color: black;
+    color: rgb(213, 26, 213);
+    width: 50%;
+
+}
+.child{
+    border: 2px solid red;
+    background-color: yellow;
+    width: 5%;
+}
+.container{
+    border: 3px solid brown;
+    background-color: beige;
+    height: 100vh;
+    width: 50vh;
+}
+.box1{
+    border: 3px solid black;
+    font-size: 50px;
+}
+.wrapper{
+    font-size: 1em;
+}
+
+.px{
+    width: 200px;
+}
+.vw{
+    width: 10vw;
+}
+.em{
+    width: 10em;
+}
+.cont{
+    border: 3px solid salmon;
+    font-size: 10px;
+    padding: 50px;
+}
+.box2{
+    font-size: 10em;
+    padding: 2em;
+    border: 2px double purple;
+}
+.para{
+    border: 5px solid green;
+    font-size: 5rem;
+}
