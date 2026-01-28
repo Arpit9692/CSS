@@ -1,0 +1,45 @@
+#img1{
+    float: right;
+    width: 150px;
+    height: auto;
+}
+#img2{
+    float: right;
+    width: 100px;
+    height: auto;
+    clear: right;
+}
+#img3{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+.box{
+    border: 3px solid black;
+    overflow: auto;
+}
+.item{
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    background-color: lightblue;
+    border: 3px double rgb(48, 30, 2);
+    float: left;
+}
+.cont{
+    border: 3px solid salmon;
+    width: 800px;
+    height: 400px;
+    /* overflow: hidden; */
+    overflow: scroll;
+}
+#item1{
+    float: right;
+}
+#item2{
+float: right;
+}
+#item3{
+    float: right;
+    clear: right;
+}
